@@ -6,7 +6,7 @@ You need the following programs to be installed on your computer:
 Node.js, MongoDB
 
 #Installation
-Clone the repo  in chosen folder.
+Clone the repo https://github.com/AlenaMandrika/react-redux-todo-server.git in chosen folder.
 In the terminal run the command "npm install" to get all the required modules.
 
 #Start Server
